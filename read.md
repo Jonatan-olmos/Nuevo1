@@ -1,1 +1,2 @@
-# archivo de prueba 
+# clase 11 
+arrays y practicas 
